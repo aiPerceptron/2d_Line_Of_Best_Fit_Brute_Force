@@ -5,4 +5,4 @@ You can find the lowest point within a certain range of numbers and step (step m
 
 However, This method really isn't as good as it seemes because checking every single number makes the performance of this method terrible. I ended up writing so much more code, because you have to check for every single number, and modify the step and range for M and B.
 
-It adds complexity to the code too. Using gradient descent you can find the refined form of M in just one line. With Brute force on the other hand, you have to loop through lists and try every single number, adding so many more unneeded lines to the code.
+It adds complexity to the code too. Using gradient descent you can find the refined form of M in just one line. With Brute force on the other hand, you have to loop through lists and try every single number, adding so many more uneeded lines to the code.
